@@ -1,18 +1,13 @@
 ## Hi, I'm Manogna Polikepad 👋
 
-I'm a computer science student interested in open-source development.
+I'm a computer science student.
 
 ### 🔧 Tech Stack
-- Languages: C
+- Languages: C,python
 - Tools: Git, GitHub, VS Code
 
 ### 🌱 Currently Learning
-- Open-source workflows
-- Contributing to real-world projects
-
-### 🎯 Goals
-- Google Summer of Code 2026
-- Consistent open-source contributions
+- DSA
 
 📫 Reach me: manognapolikepad@gmail.com
 
