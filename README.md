@@ -1,12 +1,10 @@
-## Hi, I'm Manogna Polikepad 👋
+Hi, I'm Manogna Polikepad 
 
 I'm a computer science student.
 
-### 🔧 Tech Stack
-- Languages: C,python
+🔧 Tech Stack
+- Languages: C,python,java
 - Tools: Git, GitHub, VS Code
-
-### 🌱 Currently Learning
 - DSA
 
 📫 Reach me: manognapolikepad@gmail.com
